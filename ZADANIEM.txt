@@ -1,0 +1,6 @@
+UTWÓRZ SYMULACJE GRY RPG W KTOREJ UZYTKOWNIK MOZE TWORZYC POSTACIE WIELU KLAS ZYD JEZYK KAZDA KLASA POSTACI POWINNA DZIEDZICZYC PO KLASIE POSTAC I ZAWIERAC UNIKALNE WŁASCIWOŚCI ORAZ METODY UMOZLIWIAJĄCE WALKE I UZYWANIE UMIEJETNOSCI
+
+
+zaprojektuj aplikacje którą prześlesz na adres informatyka... w postaci zrzutu ekranu oraz opisów w kodzie w postaci komentarza.
+
+Stwórz hierarchie klas reprezentujących różne typy pracowników w Firmie, takie jak Pracownik,Kierownik, Programista, Handlowiec każda klasa powinna zawierać metode oblicz wynagrodzenie która zwraca miesięczne zarobki pracownika następnie stwórz kilku pracowników różnych typów i oblicz ich miesięczne wynagrodzenie
